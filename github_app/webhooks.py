@@ -32,7 +32,7 @@ def verification(body):
       'WEBHOOK_SECRET'), msg=str(json.dumps(responseBody)), digestmod=hashlib.sha256).hexdigest()
   return response
 
-# Process message and send response back to Watson Work Services for test 
+# Process message and send respond back to Watson Work Services for test 
 def parseMessage(body):
   current_app.logger.info('Parsing incoming message')
   spaceId = body['spaceId']
