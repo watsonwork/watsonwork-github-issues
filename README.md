@@ -65,7 +65,7 @@ An app must be registered with Watson Work Services in order to interact with th
 
 To register an app, navigate to the Watson Work Services developer experience: https://developer.watsonwork.ibm.com.
 
-1. Once logged in, select the **Your Apps** link at the top left.
+1. Once logged in, select the **Your Apps** link at the top right.
 
   ![WWS](https://user-images.githubusercontent.com/10982483/28998391-c69fd91a-79f7-11e7-9a17-b604b977b622.png)
 
